@@ -1,6 +1,6 @@
 print("ASSALMALIKUM! Welcome to our Chai shop")
 name =input("What's your name?\n")
-if name=="Ben" or name=="Khan":
+if name=="Malang" or name=="Khan":
     evil_status=input("Are you Evil\n")
     if evil_status== "yes":
        print("You are not welcome here")
